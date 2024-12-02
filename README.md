@@ -2,9 +2,12 @@
 
 ## About me 
 
-I am a CFM student pursuing my Bachelors at the University of Waterloo. That means I study Computer Science and Finance! 
+Hi! I'm Evan Liu. I am a CFM student pursuing my Bachelors at the University of Waterloo. That means I study Computer Science and Finance! 
 
+I'm highly interested in coding, especially on the machine learning and AI side, and I'd love to be in contact!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/evanyxliu)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e246liu@uwaterloo.ca)
 
 ## Tech Stack
 
