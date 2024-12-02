@@ -13,7 +13,7 @@ I'm highly interested in coding, especially on the machine learning and AI side,
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,mysql,postgres,postman,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,mysql,postgres,postman,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
 
 
 <!--
