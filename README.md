@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## About me 
+
+I am a CFM student pursuing my Bachelors at the University of Waterloo. That means I study Computer Science and Finance! 
+
+
+
+## Tech Stack
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 <!--
 **EYXLiu/EYXLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
