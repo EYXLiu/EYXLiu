@@ -8,7 +8,8 @@ I am a CFM student pursuing my Bachelors at the University of Waterloo. That mea
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+
 
 <!--
 **EYXLiu/EYXLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
