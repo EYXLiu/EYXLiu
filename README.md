@@ -13,8 +13,9 @@ I'm highly interested in coding, especially on the machine learning and AI side,
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,mysql,postgres,postman,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,postgres,postman,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
 
+Python, PyTorch, Javascript, ReactJS, NextJS, Typescript, Amazon Web Services, Docker, C, C++, PostgresSQL, SQL Server Management Studio, Postman, HTML, Tailwind CSS, CSS, Git, MongoDB, Supabase, Vim, Powershell, VSCode, Pycharm, Eclipse
 
 <!--
 **EYXLiu/EYXLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
