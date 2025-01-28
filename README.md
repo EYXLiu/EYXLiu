@@ -1,7 +1,5 @@
 ## Hi there !
 
-## About me 
-
 Hi! I'm Evan Liu. I am a CFM student pursuing my Bachelors at the University of Waterloo. That means I study Computer Science and Finance! 
 
 I'm highly interested in coding, especially on the machine learning and AI side, and I'd love to be in contact!
