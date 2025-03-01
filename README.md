@@ -11,7 +11,7 @@ I'm highly interested in coding, especially on the machine learning and AI side,
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,postgres,postman,sklearn,fastapi,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,java,postgres,postman,sklearn,fastapi,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
 
  Languages: Python, C++, Typescript, Javascript, C, Java, SQL (Postgres, SSMS), HTML, CSS (Tailwind), LaTeX, R <br/>
 
