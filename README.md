@@ -13,11 +13,11 @@ I'm highly interested in coding, especially on the machine learning and AI side,
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,postgres,postman,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
 
- Languages: Python, C++, Typescript, Javascript, C,  SQL (Postgres, SSMS), HTML, CSS (Tailwind), Java, LaTeX <br/>
+ Languages: Python, C++, Typescript, Javascript, C, Java, SQL (Postgres, SSMS), HTML, CSS (Tailwind), LaTeX, R <br/>
 
- Developer Tools: Git, Jupyter Notebook, VSCode, Linux Shell, Vim, Pycharm, Eclipse, MongoDB, Supabase, Excel, Power BI <br/>
+ Developer Tools: Git, Jupyter Notebook, VSCode, Cursor, Linux Shell, Vim, SSMS, Excel, Microsoft Fabric <br/>
 
- Frameworks/Libraries: PyTorch, NextJS, Postman, pandas, NumPy, Matplotlib, dbt, yFinance <br/>
+ Frameworks/Libraries: PyTorch, Unsloth, Ollama, pandas, NumPy, Spark, Matplotlib, Seaborn, NextJS, Postman <br/>
  
 <!--
 **EYXLiu/EYXLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
