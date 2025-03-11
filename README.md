@@ -7,7 +7,7 @@ I'm highly interested in coding, especially on the machine learning and AI side,
  📧 [Feel free to email me](mailto:evan.liu@uwaterloo.ca)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/evanyxliu)
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:e246liu@uwaterloo.ca)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evan.liu@uwaterloo.ca)
 
 ## Tech Stack
 
