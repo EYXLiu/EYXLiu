@@ -11,7 +11,7 @@ I'm highly interested in coding, especially on the backend/data/machine learning
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,java,postgres,postman,sklearn,fastapi,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
 
- Languages: Python, C++, C#, Go, Typescript, Javascript, C, Java, SQL (Postgres, SSMS, SQLite), R <br/>
+ Languages: Python, C++, C#, Java, Go, Typescript, Javascript, C, SQL (Postgres, SSMS, SQLite), R <br/>
 
  Developer Tools: Git, Jupyter Notebook, WebSockets, Shell, Redis, Kafka, REST APIs, GraphQL, Postman, Oracle Cloud <br/>
 
