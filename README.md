@@ -9,7 +9,7 @@ I'm highly interested in coding, especially on the backend/data/machine learning
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cpp,java,postgres,postman,sklearn,fastapi,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,ts,aws,docker,c,cs,cpp,java,postgres,postman,sklearn,fastapi,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://skillicons.dev)
 
  Languages: Python, C++, C#, Java, Go, Typescript, Javascript, C, SQL (Postgres, SSMS, SQLite), R <br/>
 
