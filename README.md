@@ -16,8 +16,6 @@ Frameworks/Tools: FastAPI, Spring, .NET, Next.js, Gin, pandas, NumPy, PyTorch, S
 Cloud/DevOps: AWS (EC2, Lambda, CLI), Git, Oracle Cloud, CI/CD, GraphQL, REST APIs, WebSockets
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,go,java,spring,ts,aws,docker,c,cs,cpp,java,postgres,postman,sklearn,fastapi,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://github.com/EYXLiu?tab=repositories)
-
-
 <!--
 **EYXLiu/EYXLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
