@@ -7,6 +7,9 @@ I'm highly interested in coding, specifically on the backend/infrastructure/low 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/evanyxliu)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evan.liu@uwaterloo.ca)
 
+## Github Stats
+[![Evan's Github Stats](https://github-stats-extended.vercel.app/api?username=eyxliu)](https://github.com/stats-organization/github-stats-extended)
+
 ## Tech Stack
 
 Languages: C++, C#, C, Go, Java, Python, Typescript, JavaScript, SQL (Postgres, SSMS), R  
