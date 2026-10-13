@@ -7,5 +7,4 @@ I'm highly interested in coding, specifically on the backend/infrastructure/low 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/evanyxliu)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evan.liu@uwaterloo.ca)
 
-## Projects
 [![My Projects](https://eyxliu.github.io/projects/preview.svg)](https://eyxliu.github.io/projects/)
