@@ -7,26 +7,5 @@ I'm highly interested in coding, specifically on the backend/infrastructure/low 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/evanyxliu)
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evan.liu@uwaterloo.ca)
 
-## Tech Stack
-
-Languages: C++, C#, C, Go, Java, Python, Typescript, JavaScript, SQL (Postgres, SSMS), R  
-
-Frameworks/Tools: Spring, .NET, FastAPI, Next.js, Gin, PyTorch, Spark, Kafka, Redis, Docker, Kubernetes  
-
-Cloud/DevOps: AWS, Azure, Git, Terraform, Oracle Cloud, CI/CD, GraphQL, REST, WebSockets
-
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,nextjs,go,java,spring,ts,aws,docker,c,cs,cpp,java,postgres,postman,sklearn,fastapi,html,tailwind,css,git,mongodb,supabase,vim,powershell,vscode,pycharm,eclipse,&perline=15)](https://github.com/EYXLiu?tab=repositories)
-<!--
-**EYXLiu/EYXLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+[![My Projects](https://eyxliu.github.io/projects/preview.svg)](https://eyxliu.github.io/projects/)
