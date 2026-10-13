@@ -8,4 +8,4 @@ I'm highly interested in coding, specifically on the backend/infrastructure/low 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evan.liu@uwaterloo.ca)
 
 ## Projects
-[![My Projects](https://eyxliu.github.io/projects/preview.svg)](https://eyxliu.github.io/projects/)
+[![My Projects](https://eyxliu.github.io/projects/preview.svg?v=2)](https://eyxliu.github.io/projects/)
